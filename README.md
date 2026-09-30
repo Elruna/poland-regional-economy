@@ -7,15 +7,15 @@
 
 ## Key findings
 1. **Regional wage gaps narrowed.** The coefficient of variation of real wages across the 16 voivodeships fell from 10.5% in 2015 to 8.1% in 2024.
-2. **The richest region grew slowest.** Mazowieckie had the lowest real wage growth (2.95% a year, about +30% over 2015-2024), followed by Śląskie (3.28%). Małopolskie grew fastest (4.55%, about +49%). Rank correlation between starting wage and growth: BETA_NUMBER.
+2. **The richest region grew slowest.** Mazowieckie had the lowest real wage growth (2.95% a year, about +30% over 2015-2024), followed by Śląskie (3.28%). Małopolskie grew fastest (4.55%, about +49%). Rank correlation between starting wage and growth: -0.63.
 3. **Higher wages go with lower unemployment.** The Spearman correlation between real wages and registered unemployment across regions was between -0.71 and -0.82 in every year.
 4. **Unemployment fell everywhere and the gap narrowed.** The spread between the highest and lowest region shrank from 9.8 percentage points (2015) to 5.5 (2024). Warmińsko-Mazurskie had the biggest fall (15.9% to 8.0%).
 
 ## Data
 - Source: GUS Local Data Bank (BDL) API.
-- Wages: variable 64428, average monthly gross wage (PLN). PASTE THE BDL DEFINITION HERE.
+- Wages: variable 64428, average monthly gross wage (PLN).
 - Unemployment: variable 461690, registered unemployment rate, December of each year.
-- Prices: annual average CPI (previous year = 100), national level, SOURCE AND LINK.
+- Prices: annual average CPI (previous year = 100), national level.
 - Years 2015-2024, 16 voivodeships.
 
 ## Method
